@@ -47,7 +47,7 @@
 
 ## 📈 **GitHub Stats**
 
-> 💡 *Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username.*
+> 💡https://github.com/pankajl07.*
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" />
