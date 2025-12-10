@@ -1,86 +1,91 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#4CAF50;">Pankaj</span></h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud | Automation | CI/CD | IaC</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF7F&size=24&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%7C+Automation+%7C+SRE;I+Automate+Everything+I+Can;Always+Learning+New+Things+🚀" />
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;I+am+Pankaj+🚀;Welcome+to+My+GitHub+Profile+💻;DevOps+Engineer+in+the+Making+⚙️;Cloud+%7C+Automation+%7C+IaC+%7C+CI%2FCD;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌"></a>
 </p>
 
----
-
-## 🔥 **About Me**
-- ⚙️ I love automating manual tasks  
-- ☸️ Working with containers, cloud, and CI/CD  
-- 🐧 Strong in Linux & Infrastructure as Code  
-- 🚀 Passionate about DevOps culture and cloud technologies  
-- 📚 Always learning: Kubernetes, Terraform, AWS, GitOps  
+# 👨‍💻 **I'm Pankaj**
+A passionate **DevOps Engineer**, learning and mastering Cloud, Automation, CI/CD, Linux, and Container technologies.  
+I enjoy building scalable systems, automating repetitive tasks, and deploying modern applications.
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
-
-### 🚀 *DevOps & Cloud*
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
-### 🔧 *CI/CD & Automation*
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
-
-### 🐳 *Containers & Orchestration*
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-
-### 🧰 *Infrastructure as Code*
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-
-### 📜 *Scripting*
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-### 📊 *Monitoring*
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+## 🌐 **Connect with Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankajladhi7@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=pankajl07&color=green&style=for-the-badge)
 
 ---
 
-## 📈 **GitHub Stats**
-
-> 💡https://github.com/pankajl07.*
-
+## 📊 **GitHub Stats**
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pankajl07&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajl07&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajl07&layout=compact&theme=radical" />
 </p>
 
----
-
-## 📂 **Featured Projects**
-- 🏗️ **CI/CD Pipeline using Jenkins & GitHub Actions**  
-- ☸️ **Kubernetes Deployment for Multi-tier App**  
-- 🐳 **Dockerized Flask App (Dev/Prod)**  
-- 🌩️ **Terraform AWS Automation (VPC, EC2, SG)**  
-
-*(Give me your real repositories—I'll link them and write descriptions.)*
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 🌐 **Connect With Me**
-<p align="left">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+## 🛠️ **Tools & Technologies**
+
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200">
 </p>
 
+| Linux | Terraform | Jenkins | Kubernetes | Ansible | Ubuntu | Git | Docker | GitHub | VS Code | AWS |
+|-------|-----------|---------|------------|---------|--------|-----|--------|--------|---------|------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55"/> | <img src="https://github.com/user-attachments/assets/a885e80a-964f-4e75-a4a6-27a063667ec7" width="55"/> |
+
 ---
 
-## ⚡ Fun Quote
-> *“If you repeat it more than twice… automate it.”*
+## 🐍 **Contribution Graph**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
-⭐ **Thanks for visiting — feel free to check out my projects!**  
+## 🚀 **Featured Projects**
+
+### 🎥 **Netflix Clone**
+A React-based Netflix-style UI with dynamic movie sections.
+
+- **Tech Stack**: React.js, TMDB API  
+- **Features**:
+  ✔ Browse movies  
+  ✔ Responsive UI  
+  ✔ Category-based filtering  
+
+👉 Repo: https://github.com/pankajl07/**(add your folder name if needed)**
+
+---
+
+### 🛒 **Myntra Clone**
+A frontend project inspired by Myntra’s UI/UX.
+
+- **Tech Stack**: HTML, CSS, JavaScript  
+- **Features**:
+  ✔ Product listing  
+  ✔ Cart page  
+  ✔ Clean and modern UI  
+
+👉 Repo: https://github.com/pankajl07/**(add your folder name if needed)**
+
+---
+
+## 📝 **Blog Posts (Optional Section)**
+(Add when you publish your own blogs)
+
+- Docker Basics for Beginners  
+- Kubernetes Architecture Explained  
+- Understanding CI/CD Pipelines  
+
+---
+
+## 🎉 **Thanks for Visiting!**
+⭐ *Feel free to explore my repositories and connect anytime.*  
